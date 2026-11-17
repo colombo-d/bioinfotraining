@@ -1,0 +1,7 @@
+name: bash-course-test          # name of the environment to create
+channels:                       # where to download packages from, in priority order (L03)
+  - conda-forge
+  - bioconda
+dependencies:                   # what to install
+  - seqkit=2.14.0               # = pins an exact version
+  - fastp=1.4.0                    # no version yet: we'll pin it after checking what gets installed
