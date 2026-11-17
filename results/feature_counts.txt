@@ -1,0 +1,5 @@
+    129 exon
+    124 transcript
+    118 CDS
+    115 start_codon
+    114 stop_codon
